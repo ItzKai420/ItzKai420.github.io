@@ -1,5 +1,5 @@
-#  presents:   Ｄ Ａ Ｒ Ｋ Ｎ Ｅ Ｓ Ｓ
-![chillax cover](https://github.com/warrayquipsome/Chillax/assets/84565593/eedd9969-6f6d-4cf0-8885-89cefa473085)
+#  Presents:   Ｄ Ａ Ｒ Ｋ Ｎ Ｅ Ｓ Ｓ
+![darkness cover](https://github.com/warrayquipsome/Chillax/assets/84565593/eedd9969-6f6d-4cf0-8885-89cefa473085)
 
 # Installation
 To download the theme in Better Discord Site:
